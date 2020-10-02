@@ -1,0 +1,15 @@
+.inf{
+    border-color: aquamarine;
+    border-width: 10px;
+    padding: 25px;
+    margin: 30px;
+    background-color: rgb(163, 231, 248);
+
+}
+.tabla{
+    border-color: rgb(145, 68, 216);
+    border-width: 10px;
+    padding: 25px;
+    margin: 30px;
+    background-color: rgb(89, 219, 158);  
+}
